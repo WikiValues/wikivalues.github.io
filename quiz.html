@@ -42,7 +42,7 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 <!-- JavaScript for the test itself -->
 <script>
     var max_govt, max_cmnt, max_jstc, max_scty, max_dipl; // Max possible scores
-    max_govt = max_cmnt = max_jstc = max_scty = max_dipl =0;
+    max_govt = max_cmnt = max_jstc = max_scty = max_dipl = 0;
     var govt, cmnt, jstc, scty, dipl; // User's scores
     govt = cmnt = jstc = scty = dipl = 0;
     var qn = 0; // Question number
@@ -101,11 +101,11 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
     }
     function results() {
         location.href = `results.html`
-            + `?e=${calc_score(govt,max_govt)}`
-            + `&d=${calc_score(cmnt,max_cmnt)}`
-            + `&g=${calc_score(jstc,max_jstc)}`
+            + `?g=${calc_score(govt,max_govt)}`
+            + `&c=${calc_score(cmnt,max_cmnt)}`
+            + `&j=${calc_score(jstc,max_jstc)}`
             + `&s=${calc_score(scty,max_scty)}`
-            + `&s=${calc_score(dipl,max_dipl)}`
+            + `&d=${calc_score(dipl,max_dipl)}`
     }
 </script>
 </body>
