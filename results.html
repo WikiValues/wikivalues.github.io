@@ -58,8 +58,20 @@
 <hr/>
 <canvas id="banner" width=800 height=650 style="font-family:Montserrat"></canvas>
 <button class="button" onclick="location.href='index.html';" style="background-color: #2196f3;">Назад</button> <br>
-<!-- Website visit statistics - no personal information is collected! -->
-<script src="https://www.w3counter.com/tracker.js?id=114877"></script>
+<!-- Privacy respecting Statcounter code for WikiValues http://wikivalues.github.io -->
+<script type="text/javascript">
+var sc_project=12079783; 
+var sc_invisible=1; 
+var sc_security="fa5443fa"; 
+var sc_https=1;
+if(navigator.doNotTrack != 1) {
+var statcounterscript=document.createElement('script');
+statcounterscript.setAttribute("type","text/javascript");
+statcounterscript.setAttribute("src", "https://www.statcounter.com/counter/counter.js");
+document.getElementsByTagName("body")[0].appendChild(statcounterscript);
+}
+</script>
+<!-- End of Statcounter Code -->
 <script>
     function getQueryVariable(variable)
     {
@@ -196,17 +208,17 @@
         ctx.fillText(ideology, 20, 140)
 
         ctx.textAlign="left"
-        if (equality  > 30) {ctx.fillText(democracy + "%", 130, 237.5)}
-        if (might     > 30) {ctx.fillText(collectivism + "%", 130, 357.5)}
-        if (liberty   > 30) {ctx.fillText(rehabilitation + "%", 130, 477.5)}
-        if (tradition > 30) {ctx.fillText(progress + "%", 130, 597.5)}
-        if (tradition > 30) {ctx.fillText(globalism + "%", 130, 597.5)}
+        if (democracy        > 30) {ctx.fillText(democracy + "%", 130, 237.5)}
+        if (collectivism     > 30) {ctx.fillText(collectivism + "%", 130, 357.5)}
+        if (rehabilitation   > 30) {ctx.fillText(rehabilitation + "%", 130, 477.5)}
+        if (progress         > 30) {ctx.fillText(progress + "%", 130, 597.5)}
+        if (globalism        > 30) {ctx.fillText(globalism + "%", 130, 597.5)}
         ctx.textAlign="right"
-        if (wealth    > 30) {ctx.fillText(authoritarianism + "%", 670, 237.5)}
-        if (peace     > 30) {ctx.fillText(individualism + "%", 670, 357.5)}
-        if (authority > 30) {ctx.fillText(punitive + "%", 670, 477.5)}
-        if (progress  > 30) {ctx.fillText(conservatism + "%", 670, 597.5)}
-        if (progress  > 30) {ctx.fillText(isolationism + "%", 670, 597.5)}
+        if (authoritarianism > 30) {ctx.fillText(authoritarianism + "%", 670, 237.5)}
+        if (individualism    > 30) {ctx.fillText(individualism + "%", 670, 357.5)}
+        if (punitive         > 30) {ctx.fillText(punitive + "%", 670, 477.5)}
+        if (conservatism     > 30) {ctx.fillText(conservatism + "%", 670, 597.5)}
+        if (isolationism     > 30) {ctx.fillText(isolationism + "%", 670, 597.5)}
 
         ctx.font="300 24px Montserrat"
         ctx.fillText("WikiValues.github.io", 780, 30)
