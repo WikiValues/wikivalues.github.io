@@ -101,11 +101,11 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
     }
     function results() {
         location.href = `results.html`
-            + `?e=${calc_score(econ,max_govt)}`
-            + `&d=${calc_score(dipl,max_cmnt)}`
-            + `&g=${calc_score(govt,max_jstc)}`
+            + `?e=${calc_score(govt,max_govt)}`
+            + `&d=${calc_score(cmnt,max_cmnt)}`
+            + `&g=${calc_score(jstc,max_jstc)}`
             + `&s=${calc_score(scty,max_scty)}`
-            + `&s=${calc_score(scty,max_dipl)}`
+            + `&s=${calc_score(dipl,max_dipl)}`
     }
 </script>
 </body>
