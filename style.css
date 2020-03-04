@@ -161,32 +161,32 @@ div.individualism {
 }
 div.rehabilitation {
     background-color: #00A33D;
-    text-align: right;
+    text-align: left;
     border-right-style: solid;
 }
 div.punitive {
     background-color: #784D1B;
-    text-align: left;
+    text-align: right;
     border-left-style: solid;
 }
 div.progress {
     background-color: #8F19A6;
-    text-align: right;
+    text-align: left;
     border-right-style: solid;
 }
 div.conservatism {
     background-color: #00567C;
-    text-align: left;
+    text-align: right;
     border-left-style: solid;
 }
 div.globalism {
     background-color: #00ACD9;
-    text-align: right;
+    text-align: left;
     border-right-style: solid;
 }
 div.isolationism {
     background-color: #D88000;
-    text-align: left;
+    text-align: right;
     border-left-style: solid;
 }
 span.weight-300 {
