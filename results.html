@@ -92,11 +92,11 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         }
     }
 
-    govtArray = ["Анархистская", "Ультрадемократическая", "Демократическая", "Нейтральная", "Этатистская", "Авторитарная", "Тоталитарная"]
-    cmntArray = ["Крайне коллективистская", "Коллективистская", "Умеренно коллективистская", "Нейтральная", "Умеренно индивидуалистская", "Нндивидуалистская", "Крайне индивидуалистская"]
-    jstcArray = ["Крайне реабилитационная", "Реабилитационная", "Умеренно реабилитационная", "Нейтральная", "Умеренно карательная", "Карательнаяя", "Крайне карательная"]
-    sctyArray = ["Революционная", "Крайне прогрессивная", "Прогрессивная", "Нейтральная", "Консервативная", "Крайне консервативная", "Реакционная"]
-    diplArray = ["Крайне глобалистская", "Глобалистская", "Умерннно глобалистская", "Нейтральная", "Умеренно изоляционистская", "Изоляционистская", "Крайне изоляционистская"]
+    govtArray = ["Ультрадемократия/Анархизм", "Демократия", "Умеренная демократия", "Нейтрально", "Этатизм", "Авторитаризм", "Тоталитаризм"]
+    cmntArray = ["Ультраколлективизм", "Коллективизм", "Умеренный коллективизм", "Нейтрально", "Умеренный индивидуализм", "Индивидуализм", "Ультраиндивидуализм"]
+    jstcArray = ["Крайне реабилитационный", "Реабилитационный", "Умеренно реабилитационный", "Нейтрально", "Умеренно карательный", "Карательный", "Крайне карательный"]
+    sctyArray = ["Революционизм", "Прогрессивизм", "Умеренный прогрессивизм", "Нейтрально", "Умеренный консерватизм", "Консерватизм", "Реакционизм"]
+    diplArray = ["Ультраглобализм", "Глобализм", "Умеренный глобализм", "Нейтрально", "Умеренный изоляционизм", "Изоляционизм", "Крайний изоляционизм/Национализм"]
 
     function setLabel(val,ary) {
         if (val > 100) { return "" } else
@@ -224,11 +224,11 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 		//ctx.fillText(version, 780, 120)
         ctx.font="400 24px Montserrat"
         ctx.textAlign="center"
-        ctx.fillText("Ось правления и власти: " + document.getElementById("government-label").innerHTML, 400, 175)
-        ctx.fillText("Ось сообщества: " + document.getElementById("community-label").innerHTML, 400, 295)
-        ctx.fillText("Ось правосудия: " + document.getElementById("justice-label").innerHTML, 400, 415)
-        ctx.fillText("Социальная Ось: " + document.getElementById("society-label").innerHTML, 400, 535)
-        ctx.fillText("Дипломатическая Ось: " + document.getElementById("diplomatic-label").innerHTML, 400, 655)
+        ctx.fillText("" + document.getElementById("government-label").innerHTML, 400, 175)
+        ctx.fillText("" + document.getElementById("community-label").innerHTML, 400, 295)
+        ctx.fillText("" + document.getElementById("justice-label").innerHTML, 400, 415)
+        ctx.fillText("" + document.getElementById("society-label").innerHTML, 400, 535)
+        ctx.fillText("" + document.getElementById("diplomatic-label").innerHTML, 400, 655)
     }
     </script>
 </body>
