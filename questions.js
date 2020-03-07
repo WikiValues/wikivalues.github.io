@@ -5,7 +5,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-       "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -15,7 +15,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -25,7 +25,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -35,7 +35,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -45,7 +45,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -55,7 +55,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -65,7 +65,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -75,7 +75,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -85,7 +85,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -95,7 +95,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -105,7 +105,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -115,7 +115,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -125,7 +125,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -135,7 +135,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -145,7 +145,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -155,7 +155,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -165,7 +165,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -175,7 +175,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -185,7 +185,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -195,7 +195,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -205,7 +205,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -215,7 +215,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -225,7 +225,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -235,7 +235,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -245,7 +245,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -255,7 +255,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -265,7 +265,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -275,7 +275,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -285,7 +285,7 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -295,7 +295,7 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -305,7 +305,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -315,7 +315,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -325,7 +325,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -335,7 +335,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -345,7 +345,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -355,7 +355,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -365,7 +365,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -375,7 +375,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -385,7 +385,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -395,7 +395,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -405,7 +405,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -415,7 +415,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -425,7 +425,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -435,7 +435,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -445,7 +445,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -455,7 +455,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -465,7 +465,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -475,7 +475,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -485,7 +485,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
         {
@@ -495,7 +495,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -505,7 +505,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -515,7 +515,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -525,7 +525,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -535,7 +535,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -545,7 +545,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -555,7 +555,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -565,7 +565,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -575,7 +575,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -5,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -585,7 +585,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -595,7 +595,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -605,7 +605,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -615,7 +615,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -625,7 +625,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -635,7 +635,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
 	{
@@ -645,7 +645,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-      "dipl": 0
+                        "dipl": 0
 		}
 	},
   {
@@ -655,7 +655,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 10
+                        "dipl": 10
 		}
 	},
 	{
@@ -665,7 +665,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 5
+                        "dipl": 5
 		}
 	},
 	{
@@ -675,7 +675,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 10
+                        "dipl": 10
 		}
 	},
 	{
@@ -685,7 +685,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 10
+                        "dipl": 10
 		}
 	},
   {
@@ -695,7 +695,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 5
+                        "dipl": 5
 		}
 	},
   {
@@ -705,7 +705,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 10
+                        "dipl": 10
 		}
 	},
   {
@@ -715,7 +715,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 10
+                        "dipl": 10
 		}
 	},
   {
@@ -725,7 +725,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 5
+                        "dipl": 5
 		}
 	},
   {
@@ -735,7 +735,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 5
+                        "dipl": 5
 		}
 	},
   {
@@ -745,7 +745,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": 5
+                        "dipl": 5
 		}
 	},
   {
@@ -755,7 +755,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": -10
+                        "dipl": -10
 		}
 	},
 	{
@@ -765,7 +765,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-      "dipl": -10
+                        "dipl": -10
 		}
 	}
 ];
