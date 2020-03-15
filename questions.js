@@ -5,6 +5,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -15,6 +16,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -25,6 +27,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -35,6 +38,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -45,6 +49,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -55,6 +60,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -65,6 +71,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -75,6 +82,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -85,6 +93,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -95,6 +104,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -105,6 +115,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -115,6 +126,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -125,6 +137,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -135,6 +148,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -145,6 +159,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -155,6 +170,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -165,6 +181,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -175,6 +192,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -185,6 +203,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -195,6 +214,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -205,6 +225,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -215,6 +236,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -225,6 +247,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -235,6 +258,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -245,6 +269,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -255,6 +280,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -265,6 +291,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -275,6 +302,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -285,6 +313,7 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -295,6 +324,7 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -305,6 +335,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -315,6 +346,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -325,6 +357,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -335,6 +368,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -345,6 +379,7 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -355,6 +390,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -365,6 +401,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -375,6 +412,7 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -385,6 +423,7 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -395,6 +434,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -405,6 +445,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -415,6 +456,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -425,6 +467,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -435,6 +478,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -445,6 +489,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -455,6 +500,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -465,6 +511,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -475,6 +522,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -485,6 +533,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -495,6 +544,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -505,6 +555,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -515,6 +566,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -525,6 +577,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -535,6 +588,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -545,6 +599,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -555,6 +610,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -565,6 +621,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -575,6 +632,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -585,6 +643,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -5,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -595,6 +654,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -605,6 +665,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -615,6 +676,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -625,6 +687,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -635,6 +698,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -645,6 +709,7 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
+			"intr": 0,
                         "dipl": 0
 		}
 	},
@@ -655,27 +720,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
+			"intr": 0,
                         "dipl": 0
-		}
-	},
-  {
-		"question": "Я активно занимаюсь правками на многих википроектах, не только на каком-то одном.",
-		"effect": {
-			"govt": 0,
-			"cmnt": 0,
-			"jstc": 0,
-			"scty": 0,
-                        "dipl": 10
-		}
-	},
-	{
-		"question": "Дипломатические отношения с другими вики выгодны и полезны.",
-		"effect": {
-			"govt": 0,
-			"cmnt": 0,
-			"jstc": 0,
-			"scty": 0,
-                        "dipl": 5
 		}
 	},
 	{
@@ -685,7 +731,19 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 10
+			"intr": 5,
+                        "dipl": 5
+		}
+	},
+	{
+		"question": "Я не откажусь в случае викидружбы от взаимной рекламы моего википроекта и чужого.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 5,
+                        "dipl": 5
 		}
 	},
 	{
@@ -695,77 +753,118 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 10
+			"intr": 10,
+                        "dipl": 0
 		}
 	},
-  {
-		"question": "Я не откажусь в случае викидружбы от взаимной рекламы моего википроекта и чужого.",
+	{
+		"question": "Активная взимопомощь и ведение совместных действий — неотъемлевая черта википроектов, находящихся в викисоюзе.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
+			"intr": 10,
                         "dipl": 5
 		}
 	},
-  {
+	{
+		"question": "Википроекты, находяющиеся в викисоюзе, должны коллективно решать спорные ситуаций относительно блокировок, введения правил, присвоения/снятия статусов и т. п.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 10,
+                        "dipl": 5
+		}
+	},
+        {
 		"question": "В случае объединения википроектов в викисоюз или альянс, я не буду против подчинения их единым правилам, организации совместной работы и прочего.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 10
+			"intr": 10,
+                        "dipl": 5
 		}
 	},
-  {
+        {
 		"question": "Важно ставить интересы целых групп вики выше интересов отдельных википроектов. Цели какого-либо одного википроекта не должны ставиться выше всех остальных.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 10
+			"intr": 10,
+                        "dipl": 5
 		}
 	},
-  {
-		"question": "Администраторам википроектов не будет лишним принимать участие в различных обсуждениях на центральной Вики Сообщества по тем или иным вопросам.",
+	{
+		"question": "Важно, чтобы у викисоюзов или альянсов была так называемая «головная вики».",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 5
+			"intr": 5,
+                        "dipl": 0
 		}
 	},
-  {
-		"question": "Администраторы разных вики должны сотрудничать всякий раз, когда это выгодно им обоим.",
+	{
+		"question": "Нет ничего плохого в том, если участники крупного вкиипроекта решат создать отдельные вики, и впоследствии сделать их доминионами основного крупного википроекта.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 5
+			"intr": 10,
+                        "dipl": 0
 		}
 	},
-  {
-		"question": "Я готов добровольно, в случае чего, помочь даже совершенно незнакомому мне википроекту.",
+	{
+		"question": "Небходимо предоставить независимоcть любым вики-доминионам.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": 5
+			"intr": -10,
+                        "dipl": 0
 		}
 	},
-  {
+	{
+		"question": "Вполне допустимо создание викисоюзов или альансов, где вся власть сосредоточена в руках 1-2 вики, а остальные лишь подчиняются своим криптократам.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 10,
+                        "dipl": 0
+		}
+	},
+	{
+		"question": "Для викисоюзов и альянсов обязательно характерны логотипы, флаги, девизы и тому подобное.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 5,
+                        "dipl": 0
+		}
+	},
+	{
 		"question": "Викисоюзы и альянсы могут представлять угрозу суверенитету отдельных и независимых википроектов.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": -10
+			"intr": -10,
+                        "dipl": 0
 		}
 	},
 	{
@@ -775,7 +874,85 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-                        "dipl": -10
+			"intr": -10,
+                        "dipl": 0
+		}
+	},
+	{
+		"question": "Я активно занимаюсь правками на многих википроектах, не только на каком-то одном.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 10
+		}
+	},
+	{
+		"question": "Я интересуюсь внешней политикой ФЭНДОМА, изменениями на викихостинге.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 10
+		}
+	},
+	{
+		"question": "Я предпочитаю находиться в основном только на каком-то одном языковом портале (например, на русском).",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": -5
+		}
+	}, 
+	{
+		"question": "Дипломатические отношения с другими вики выгодны и полезны.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 10
+		}
+	},
+        {
+		"question": "Я активно принимаю участие в различных обсуждениях на центральной Вики Сообщества по тем или иным вопросам.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 10
+		}
+	},
+        {
+		"question": "Администраторы разных вики должны сотрудничать всякий раз, когда это выгодно им обоим.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 5
+		}
+	},
+        {
+		"question": "Я готов добровольно, в случае чего, помочь даже совершенно незнакомому мне википроекту.",
+		"effect": {
+			"govt": 0,
+			"cmnt": 0,
+			"jstc": 0,
+			"scty": 0,
+			"intr": 0,
+                        "dipl": 10
 		}
 	}
 ];
