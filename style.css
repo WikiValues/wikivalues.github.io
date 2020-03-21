@@ -179,16 +179,6 @@ div.conservatism {
     text-align: right;
     border-left-style: solid;
 }
-div.unionism {
-    background-color: #7B902E;
-    text-align: left;
-    border-right-style: solid;
-}
-div.autonomism {
-    background-color: #923039;
-    text-align: right;
-    border-left-style: solid;
-}
 div.globalism {
     background-color: #00ACD9;
     text-align: left;
@@ -196,6 +186,16 @@ div.globalism {
 }
 div.isolationism {
     background-color: #D88000;
+    text-align: right;
+    border-left-style: solid;
+}
+div.unionism {
+    background-color: #7B902E;
+    text-align: left;
+    border-right-style: solid;
+}
+div.autonomism {
+    background-color: #923039;
     text-align: right;
     border-left-style: solid;
 }
