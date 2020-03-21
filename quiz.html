@@ -42,9 +42,9 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
 <!-- JavaScript for the test itself -->
 <script>
     var max_govt, max_cmnt, max_jstc, max_scty, max_intr, max_dipl; // Max possible scores
-    max_govt = max_cmnt = max_jstc = max_scty = max_intr = max_dipl = 0;
-    var govt, cmnt, jstc, scty, intr, dipl; // User's scores
-    govt = cmnt = jstc = scty = intr = dipl = 0;
+    max_govt = max_cmnt = max_jstc = max_scty = max_dipl = max_intr = 0;
+    var govt, cmnt, jstc, scty, dipl, intr; // User's scores
+    govt = cmnt = jstc = scty = dipl = intr = 0;
     var qn = 0; // Question number
     var prev_answer = null;
     init_question();
@@ -53,8 +53,8 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         max_cmnt += Math.abs(questions[i].effect.cmnt)
         max_jstc += Math.abs(questions[i].effect.jstc)
         max_scty += Math.abs(questions[i].effect.scty)
-        max_intr += Math.abs(questions[i].effect.intr)
         max_dipl += Math.abs(questions[i].effect.dipl)
+        max_intr += Math.abs(questions[i].effect.intr)
     }
     function init_question() {
         document.getElementById("question-text").innerHTML = questions[qn].question;
@@ -74,8 +74,8 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         cmnt += mult*questions[qn].effect.cmnt
         jstc += mult*questions[qn].effect.jstc
         scty += mult*questions[qn].effect.scty
-        intr += mult*questions[qn].effect.intr
         dipl += mult*questions[qn].effect.dipl
+        intr += mult*questions[qn].effect.intr
         qn++;
         prev_answer = mult;
         if (qn < questions.length) {
@@ -93,8 +93,8 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
         cmnt -= prev_answer * questions[qn].effect.cmnt;
         jstc -= prev_answer * questions[qn].effect.jstc;
         scty -= prev_answer * questions[qn].effect.scty;
-        intr -= prev_answer * questions[qn].effect.intr;
         dipl -= prev_answer * questions[qn].effect.dipl;
+        intr -= prev_answer * questions[qn].effect.intr;
         prev_answer = null;
         init_question();
 
@@ -108,8 +108,8 @@ document.getElementsByTagName("body")[0].appendChild(statcounterscript);
             + `&c=${calc_score(cmnt,max_cmnt)}`
             + `&j=${calc_score(jstc,max_jstc)}`
             + `&s=${calc_score(scty,max_scty)}`
-            + `&i=${calc_score(intr,max_intr)}`
             + `&d=${calc_score(dipl,max_dipl)}`
+            + `&i=${calc_score(intr,max_intr)}`
     }
 </script>
 </body>
