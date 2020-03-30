@@ -5,8 +5,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -16,8 +16,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -27,8 +27,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -38,8 +38,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -49,8 +49,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -60,8 +60,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -71,8 +71,8 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -82,8 +82,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -93,8 +93,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -104,8 +104,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -115,8 +115,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -126,8 +126,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -137,8 +137,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -148,8 +148,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -159,8 +159,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -170,8 +170,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -181,8 +181,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -192,8 +192,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -203,8 +203,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -214,8 +214,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -225,8 +225,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -236,8 +236,8 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -247,8 +247,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -258,8 +258,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -269,8 +269,8 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -280,8 +280,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -291,8 +291,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -302,8 +302,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -313,8 +313,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -324,8 +324,8 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -335,8 +335,8 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -346,8 +346,8 @@ questions = [{
 			"cmnt": -5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -357,8 +357,8 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -368,8 +368,8 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -379,8 +379,8 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -390,8 +390,8 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -401,8 +401,8 @@ questions = [{
 			"cmnt": 5,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -412,8 +412,8 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -423,8 +423,8 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -434,8 +434,8 @@ questions = [{
 			"cmnt": 10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -445,8 +445,8 @@ questions = [{
 			"cmnt": -10,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -456,8 +456,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -467,8 +467,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -478,8 +478,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	        {
@@ -489,8 +489,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -500,8 +500,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -511,8 +511,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -522,8 +522,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -533,8 +533,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -544,8 +544,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -555,8 +555,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": -10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -566,8 +566,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 5,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -577,8 +577,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -588,8 +588,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -599,8 +599,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 10,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -610,8 +610,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -621,8 +621,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -632,8 +632,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -643,8 +643,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -654,8 +654,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -665,30 +665,30 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Необходимо вернуть возможность включения достижений на википроекте администраторами через Wiki Features, без нужды запрашивать подключение данного расширения у сотрудников ФЭНДОМА.",
+		"question": "Необходимо вернуть возможность включения достижений на википроекте администраторами через Wiki Features, без нужды запрашивать подключение данного расширения у сотрудников Фэндома.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Удаление текущих расширений, на которых построены стены обсуждений, комментарии и профили участников на ФЭНДОМЕ, и замена их новыми расширениями — необходимая и неотъемлемая часть масштабного обновления ФЭНДОМА.",
+		"question": "Удаление текущих расширений, на которых построены стены обсуждений, комментарии и профили участников на Фэндоме, и замена их новыми расширениями — необходимая и неотъемлемая часть масштабного обновления Фэндома.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -698,8 +698,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -709,8 +709,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -720,8 +720,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -731,8 +731,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -742,8 +742,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -753,8 +753,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 0
 		}
 	},
 	{
@@ -764,52 +764,52 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Планируемое удаление форумов и полная замена их на обсуждения — крайне предательский и подлый ход со стороны ФЭНДОМА.",
+		"question": "Планируемое удаление форумов и полная замена их на обсуждения — крайне предательский и подлый ход со стороны Фэндома.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Объединение ФЭНДОМА и Gamepedia в новую единую платформу (UCP) является совершенно лишним и ненужным действием.",
+		"question": "Объединение Фэндома и Gamepedia в новую единую платформу (UCP) является совершенно лишним и ненужным действием.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": -10,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Классический вики-чат должен быть упразднён, а ему на замену должна прийти интеграция ФЭНДОМА с Дискордом.",
+		"question": "Классический вики-чат должен быть упразднён, а ему на замену должна прийти интеграция Фэндома с Дискордом.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Участники должны иметь право регистрироваться и находиться впоследствии на ФЭНДОМЕ, даже если им меньше 13 лет.",
+		"question": "Участники должны иметь право регистрироваться и находиться впоследствии на Фэндоме, даже если им меньше 13 лет.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 5,
-			"intr": 0,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 0
 		}
 	},
 	{
@@ -819,8 +819,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 0
 		}
 	},
 	{
@@ -830,8 +830,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
@@ -841,8 +841,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 0
 		}
 	},
 	{
@@ -852,8 +852,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
@@ -863,8 +863,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
@@ -874,19 +874,19 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Я интересуюсь внешней политикой ФЭНДОМА, изменениями на викихостинге.",
+		"question": "Я интересуюсь внешней политикой Фэндома, изменениями на викихостинге.",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
@@ -896,19 +896,19 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
-		"question": "Я предпочитаю находиться и проводить время в основном только на каком-то одном языковом портале ФЭНДОМА (например, на русском).",
+		"question": "Я предпочитаю находиться и проводить время в основном только на каком-то одном языковом портале Фэндома (например, на русском).",
 		"effect": {
 			"govt": 0,
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": -5
+			"dipl": -5,
+                        "intr": 0
 		}
 	},
         {
@@ -918,8 +918,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
         {
@@ -929,8 +929,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 0
 		}
 	},
         {
@@ -940,8 +940,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 0,
-                        "dipl": 10
+			"dipl": 10,
+                        "intr": 0
 		}
 	},
 	{
@@ -951,8 +951,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
 	{
@@ -962,8 +962,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
 	{
@@ -973,8 +973,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
         {
@@ -984,8 +984,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 10
 		}
 	},
         {
@@ -995,8 +995,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 5
+			"dipl": 5,
+                        "intr": 10
 		}
 	},
 	{
@@ -1006,8 +1006,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 5,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 5
 		}
 	},
 	{
@@ -1017,8 +1017,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
 	{
@@ -1028,8 +1028,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": -10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": -10
 		}
 	},
 	{
@@ -1039,8 +1039,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
 	{
@@ -1050,8 +1050,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 10
 		}
 	},
 	{
@@ -1061,8 +1061,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": -10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": -10
 		}
 	},
 	{
@@ -1072,8 +1072,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": 5,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": 5
 		}
 	},
 	{
@@ -1083,8 +1083,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": -10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": -10
 		}
 	},
 	{
@@ -1094,8 +1094,8 @@ questions = [{
 			"cmnt": 0,
 			"jstc": 0,
 			"scty": 0,
-			"intr": -10,
-                        "dipl": 0
+			"dipl": 0,
+                        "intr": -10
 		}
 	}
 ];
